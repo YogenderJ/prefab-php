@@ -1,0 +1,5 @@
+irst you have to create sh file in which you will provide commands to run application 
+Then you will run sh file to remote server
+
+
+Add variable as parameter in CI_CD Settings of project repo 
